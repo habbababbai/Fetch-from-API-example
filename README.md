@@ -5,7 +5,7 @@ App was made in React with Typescript and fetched data is available here: [When 
 
 ## Scripts
 
-`npm i` &nbsp; Installs required dependencies
-`npm start` &nbsp; Starts app at localhost
-`npm build` &nbsp; Builds the app
-`npm test` &nbsp; Runs unit tests
+`npm i` &nbsp; Installs required dependencies  
+`npm start` &nbsp; Starts app at localhost  
+`npm build` &nbsp; Builds the app  
+`npm test` &nbsp; Runs unit tests  
